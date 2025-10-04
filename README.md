@@ -6,8 +6,8 @@ You can enter the stock symbols and quantities you own, and it will calculate yo
 
 Features:
 
-Uses hardcoded stock prices (AAPL, TSLA, GOOGL, MSFT, AMZN)
+--Uses hardcoded stock prices (AAPL, TSLA, GOOGL, MSFT, AMZN)
 
-Calculates total investment value
+--Calculates total investment value
 
-Option to save portfolio summary to a text file
+--Option to save portfolio summary to a text file
